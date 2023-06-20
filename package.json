@@ -146,7 +146,7 @@
     "deep-equal": "2.0.1",
     "devtron": "1.4.0",
     "electron-debug": "2.0.0",
-    "electron-updater": "4.1.2",
+    "electron-updater": "4.2.1",
     "history": "4.7.2",
     "hs-client": "https://github.com/handshake-org/hs-client.git",
     "hsd": "https://github.com/handshake-org/hsd/tarball/375ef41",
