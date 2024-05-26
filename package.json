@@ -167,7 +167,7 @@
     "react-router-dom": "4.3.1",
     "redux": "4.0.1",
     "redux-thunk": "2.3.0",
-    "rimraf": "2.6.2",
+    "rimraf": "4.3.1",
     "sha3": "2.0.0",
     "shakedex": "https://github.com/chikeichan/shakedex#f9641a8",
     "source-map-support": "0.5.9",
