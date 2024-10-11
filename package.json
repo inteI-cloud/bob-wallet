@@ -136,7 +136,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.5.0",
-    "@sentry/electron": "0.17.4",
+    "@sentry/electron": "4.15.0",
     "bcrypto": "^5.4.0",
     "bcurl": "^0.1.9",
     "bdb": "^1.2.2",
